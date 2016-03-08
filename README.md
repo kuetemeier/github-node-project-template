@@ -1,7 +1,11 @@
-# Common project template v1.0.0
+# Node.js project template
 
-*This is our project template here at [Kuetemeier.NET][], we use it as a common starting point for new projects.
-If you're a programmer, you might also be interested in our [Node.js project template](https://github.com/kuetemeier/project-template-node-js).*
+[![Dependency status](http://img.shields.io/david/kuetemeier/project-template-node-js.svg?style=flat)](https://david-dm.org/kuetemeier/project-template-node-js)
+[![devDependency Status](http://img.shields.io/david/dev/kuetemeier/project-template-node-js.svg?style=flat)](https://david-dm.org/kuetemeier/project-template-node-js#info=devDependencies)
+[![Build Status](https://travis-ci.org/kuetemeier/project-template-node-js.svg?branch=master)](https://travis-ci.org/kuetemeier/project-template-node-js)
+
+*This is our Node.js project template here at [Kuetemeier.NET][], we use it as a common starting point for new projects.
+This project is based on our [Common project template](https://github.com/kuetemeier/project-template).*
 
 **Feel free to use it as a basis for your own projects.**
 

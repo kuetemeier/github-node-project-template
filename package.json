@@ -1,0 +1,49 @@
+{
+  "name": "project-template-node-js",
+  "version": "0.1.0",
+  "description": "This is our Node.js project template",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.6.5",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-register": "^6.6.5",
+    "del": "^2.0.2",
+    "glob": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-header": "^1.2.2",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.5.3",
+    "gulp-util": "^3.0.7",
+    "isparta": "^4.0.0",
+    "jsdom": "^8.1.0",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0",
+    "mocha": "^2.2.4",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuetemeier/project-template-node-js.git"
+  },
+  "author": "Joerg Kuetemeier <jk@jkuetemeier.de> (https://kuetemeier.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuetemeier/project-template-node-js/issues"
+  },
+  "homepage": "https://github.com/kuetemeier/project-template-node-js#readme",
+  "private": "true"
+}
