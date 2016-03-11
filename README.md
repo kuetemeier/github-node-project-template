@@ -1,4 +1,4 @@
-# Node.js project template
+# Node.js project template - v1.0.0
 
 [![Dependency status](http://img.shields.io/david/kuetemeier/project-template-node-js.svg?style=flat)](https://david-dm.org/kuetemeier/project-template-node-js)
 [![devDependency Status](http://img.shields.io/david/dev/kuetemeier/project-template-node-js.svg?style=flat)](https://david-dm.org/kuetemeier/project-template-node-js#info=devDependencies)
