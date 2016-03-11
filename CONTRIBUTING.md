@@ -23,7 +23,7 @@ The license tells you what rights you have that are provided by the copyright ho
 
 To make a good faith effort to ensure these criteria are met, this project requires an CLA for contributions. This agreement helps ensure you are aware of the terms of the license you are contributing your copyrighted works under, which helps to prevent the inclusion of works in the projects that the contributor does not hold the rights to share.
 
-You can easily [sign the CLA](https://cla-assistant.io/kuetemeier/project-template) with your GitHub account.
+You can easily [sign the CLA](https://cla-assistant.io/kuetemeier/project-template-node-js) with your GitHub account.
 
 ## Code Contributions
 
@@ -31,13 +31,13 @@ We welcomes new contributors. This document will guide you through the contribut
 
 ### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/kuetemeier/project-template) and check out your
+Fork the project [on GitHub](https://github.com/kuetemeier/project-template-node-js) and check out your
 copy locally.
 
 ```text
-$ git clone git@github.com:username/project-template.git
+$ git clone git@github.com:username/project-template-node-js.git
 $ cd node
-$ git remote add upstream git://github.com/kuetemeier/project-template.git
+$ git remote add upstream git://github.com/kuetemeier/project-template-node-js.git
 ```
 
 #### Which branch?
@@ -118,7 +118,7 @@ patches that fail either check.
 
 ### Step 6: Squash
 
-Squash your commits into a single commit. 
+Squash your commits into a single commit.
 
 ```text
 $ git rebase -i
@@ -128,7 +128,7 @@ It’s okay to force update your pull request.
 
 ### Step 7: CLA
 
-If this is your first pull request and you haven't done so, [sign our CLA](https://cla-assistant.io/kuetemeier/project-template) with your GitHub account by following the link. You have to do this only once.
+If this is your first pull request and you haven't done so, [sign our CLA](https://cla-assistant.io/kuetemeier/project-template-node-js) with your GitHub account by following the link. You have to do this only once.
 
 ### Step 8: Push
 
