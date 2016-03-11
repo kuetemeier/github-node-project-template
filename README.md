@@ -1,4 +1,4 @@
-# Common Project template
+# Common project template v1.0.0
 
 *This is our project template here at [Kuetemeier.NET][], we use it as a common starting point for new projects.
 If you're a programmer, you might also be interested in our [Node.js project template](https://github.com/kuetemeier/project-template-node-js).*
