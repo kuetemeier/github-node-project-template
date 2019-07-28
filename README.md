@@ -1,3 +1,7 @@
+## Archived
+
+We do not use this any more. But enjoy it for reference.
+
 # Node.js project template - v1.0.0
 
 [![Dependency status](http://img.shields.io/david/kuetemeier/project-template-node-js.svg?style=flat)](https://david-dm.org/kuetemeier/project-template-node-js)
